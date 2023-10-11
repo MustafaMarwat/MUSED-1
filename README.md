@@ -38,4 +38,16 @@ You can download the dataset from the following sources:
 
 ## Citation
 
-If you use this dataset in your research, please cite it as follows: Muhammad Mustafa Khan , Muhammad Farhan, Ammar Shahzad, Hamza Suhaib Qarni, Asim Waris, Omer Gillani, August 5, 2023, "MUSED-I: "Multi-Gesture Surface Electromyography (sEMG) Dataset for Stroke Rehabilitation”", IEEE Dataport, doi: https://dx.doi.org/10.21227/04zq-yz45.
+If you use this dataset in your research, please cite it as follows: [Muhammad Mustafa Khan , Muhammad Farhan, Ammar Shahzad, Hamza Suhaib Qarni, Asim Waris, Omer Gillani, August 5, 2023, "MUSED-I: "Multi-Gesture Surface Electromyography (sEMG) Dataset for Stroke Rehabilitation”", IEEE Dataport, doi: https://dx.doi.org/10.21227/04zq-yz45.]
+
+
+## Acknowledgments
+I extend my sincere thanks to my group members, Muhammad Farhan, Ammar Shahzad, and Hamza Suhaib Qarni, for their unwavering and resilient support in successfully accomplishing this impactful project.
+
+## Keywords
+- Stroke Rehabilitation
+- sEMG
+- Biomedical Engineering
+- Signal Processing
+- Machine Learning
+- Robotics
